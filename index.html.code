@@ -6,20 +6,14 @@
     </title>
   </head>
 
-  <body>
-
-    <body bgcolor="blue">
-
-      <body text="black">
-
-        <body link="blue">
-          <h1>Welcome to my homepage!</h1>
-          <hr>
-          <h3><b>GO GECKOS!</h3></b>
-          <p>
-            <a href="https://www.gatewaycc.edu/">Visit the Gateway Community College Website</a>
-            <p>
-              <img src="gecko.jpg">
-        </body>
+  <body style="background-color: blue;">
+    <h1>Welcome to my homepage!</h1>
+    <hr>
+    <h3>GO GECKOS!</h3>
+    <p>
+      <a href="https://www.gatewaycc.edu/">Visit the Gateway Community College Website</a>
+    </p>
+    <img src="gecko.jpg">
+  </body>
 
 </html>
