@@ -1,0 +1,12 @@
+div#left-column {
+    flex: 1 1 500px;
+    padding: 6em;
+    line-height: 1.5em;
+    font-family: fantasy;
+    background: skyblue;
+  }
+  
+  h1 {
+    justify-content: center;
+  }
+  
