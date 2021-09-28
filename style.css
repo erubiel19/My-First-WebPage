@@ -8,4 +8,19 @@ div#left-column {
   
   h1 {
     justify-content: center;
+    flex: 1 1 500px;
+    padding: 6em;
+    line-height: 1.5em;
   }
+  h2 {
+    justify-content: center;
+    flex: 1 1 500px;
+    padding: 6em;
+    line-height: 1.5em;
+  }
+h3 {
+    justify-content: center;
+    flex: 1 1 500px;
+    padding: 6em;
+    line-height: 1.5em;
+}
