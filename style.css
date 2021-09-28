@@ -2,6 +2,7 @@ div#left-column {
     flex: 1 1 500px;
     padding: 6em;
     line-height: 1.5em;
+    justify-content: center;
     font-family: fantasy;
     background: skyblue;
   }
