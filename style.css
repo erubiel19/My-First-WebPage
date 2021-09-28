@@ -6,3 +6,6 @@ div#left-column {
     font-family: fantasy;
     background: skyblue;
   }
+h2 {
+    justify-content: center;
+}
