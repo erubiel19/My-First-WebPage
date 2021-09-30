@@ -6,6 +6,10 @@ div#left-column {
     font-family: sans-serif;
     background: skyblue;
   }
+  body {
+    background-repeat: no-repeat;
+    background-image: url(deja-vu.jpeg)
+  }
 h1 {
     justify-content: center;
 }
