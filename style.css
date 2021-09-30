@@ -11,3 +11,6 @@ div#left-column {
 h1 {
     justify-content: center;
 }
+p {
+    color: rgb(238, 10, 63);
+}
